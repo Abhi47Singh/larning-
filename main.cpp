@@ -5,6 +5,10 @@ void _1st_branch()
 {
     cout << "Hello" << endl;
 }
+void _2nd_branch()
+{
+    cout << "Bye" << endl;
+}
 
 int main()
 {
