@@ -1,5 +1,11 @@
 #include <bits/stdc++.h>
 using namespace std;
+
+void _1st_branch()
+{
+    cout << "Hello" << endl;
+}
+
 int main()
 {
     cout << "Hello World!!!" << endl;
