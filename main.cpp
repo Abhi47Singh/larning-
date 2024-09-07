@@ -13,7 +13,8 @@ void _2nd_branch()
 int main()
 {
     cout << "Hello World!!!" << endl;
-    cout << "Allah Hu Akbar!!!" << endl;
     // ahaiuhfiaoh
     return 0;
 }
+
+//abcd
